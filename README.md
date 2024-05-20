@@ -3,9 +3,12 @@
 
 An Deep Neural Network for Traffic Sign Detection
 
-![演示图片](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/PSFEYOLO%20test%20run%20demo.gif)
-![演示图片1](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/demo1.pdf)
-![演示图片2](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/demo2.pdf)
-![演示图片3](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/demo3.pdf)
+This is our operational demonstration video:
+![Run_demonstration](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/Run_demonstration.gif)
+
+The following is a running result chart:
+![running_result_1](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/demo1.jpg)
+![running_result_2](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/demo2.jpg)
+![running_result_3](https://github.com/csust7zhangjm/PSFE-TSD/blob/main/demo3.jpg)
 
 If the above manuscript is accepted, the code and data to the manuscript will be publicly available for free.
