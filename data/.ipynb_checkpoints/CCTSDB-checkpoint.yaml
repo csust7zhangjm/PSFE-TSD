@@ -1,0 +1,20 @@
+# COCO 2017 dataset http://cocodataset.org
+# Train command: python train.py --data coco.yaml
+# Default dataset location is next to /yolov5:
+#   /parent_folder
+#     /coco
+#     /yolov5
+
+
+# download command/URL (optional)
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+path: /root/autodl-tmp/CCTSDB
+train: /root/autodl-tmp/CCTSDB/images/train  # 118287 images
+val: /root/autodl-tmp/CCTSDB/images/test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+test: /root/autodl-tmp/CCTSDB/images/test
+# number of classes
+nc: 3
+
+# class names
+names: [ 'mandatory', 'prohibitory', 'warning']

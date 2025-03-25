@@ -1,0 +1,22 @@
+path: /root/autodl-tmp/CCTSDB/Size_Weather
+train: /root/autodl-tmp/CCTSDB/Size_Weather/images/train  # 118287 images
+val: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_XL/images/XL  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_cloud/images/cloud
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_foggy/images/foggy
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_night/images/night
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_rain/images/rain
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_snow/images/snow
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_sunny/images/sunny
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_S/images/S
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_M/images/M
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_L/images/L
+#test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_XS/images/XS
+# test: /root/autodl-tmp/CCTSDB/Size_Weather/CCTSDB_XL/images/XL
+
+
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'mandatory', 'prohibitory', 'warning']

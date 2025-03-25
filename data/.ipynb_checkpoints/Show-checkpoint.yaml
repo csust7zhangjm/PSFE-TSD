@@ -1,0 +1,9 @@
+path: /root/autodl-tmp/Show
+train: /root/autodl-tmp/Show/images/train  # 118287 images
+val: /root/autodl-tmp/Show/images/test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+test: /root/autodl-tmp/Show/images/test
+# number of classes
+nc: 3
+
+# class names
+names: [ 'prohibitory', 'mandatory', 'danger']
